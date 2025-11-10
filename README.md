@@ -118,7 +118,8 @@ python evaluate/evaluate_All.py --model_name resnet50_finetune --fold 3
 
 #### 3. Generating Grad-CAM Visualizations
 ```bash
-python evaluate/grad_cam.py --fold 3 --num_images 5```
+python evaluate/grad_cam.py --fold 3 --num_images 5
+```
 
 ---
 
