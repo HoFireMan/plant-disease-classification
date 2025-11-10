@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code specific settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE specific files (general)
+.idea/
+*.swp
+*.swo
+
+# --- 核心修正：同時忽略原始資料集和大型輸出成果 ---
+# Ignore the large raw dataset directory
+PlantVillage/
+# Ignore the large output directory containing model weights
+output/
