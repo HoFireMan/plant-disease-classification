@@ -126,7 +126,7 @@ python evaluate/grad_cam.py --fold 3 --num_images 5
 ### Acknowledgements, License, and Citations
 
 #### **License**
-*   **Code**: All code in this project is licensed under the **MIT License**.
+*   **Code**: All code in this project is licensed under the Apache License 2.0**.
 *   **Dataset**: The **PlantVillage dataset** is provided under the **CC0: Public Domain** license.
 
 #### **Citations**
