@@ -50,7 +50,7 @@ The project is organized as follows:
 ├── visualize_augmentations.py        # Utility script to generate data augmentation examples
 ├── get_baseline_avg_acc.py           # Utility script to re-validate K-Fold accuracy
 ├── README.md                         # Project documentation file
-└── LICENSE                           # MIT License file
+└── LICENSE                           # Apache License 2.0 file
 ```
 
 ---
